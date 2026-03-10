@@ -41,3 +41,6 @@ index.html – simple webpage hosted by Nginx.
 - Connecting to Linux using SSH
 - Installing and configuring Nginx
 - Hosting a static website on AWS
+## Screenshot
+
+![AWS EC2 Web Server](screenshots/aws-ec2-nginx-webserver.png)
